@@ -9,7 +9,7 @@ import java.util.Map;
  */
 
 //Integer to Roman
-public class Problem4 {
+public class IntegerToRoman {
 
     public static Map<Integer, String> map = new HashMap<>();
 
