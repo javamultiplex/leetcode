@@ -1,6 +1,6 @@
-package com.javamultiplex.march.week2;
+package com.javamultiplex.march;
 
-import com.javamultiplex.march.week2.List.ListNode;
+import com.javamultiplex.List.ListNode;
 
 /**
  * @author Rohit Agarwal on 14/03/21 4:12 pm

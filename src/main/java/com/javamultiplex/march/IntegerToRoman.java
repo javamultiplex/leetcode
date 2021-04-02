@@ -1,4 +1,4 @@
-package com.javamultiplex.march.week2;
+package com.javamultiplex.march;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,6 +1,6 @@
-package march.week2;
+package march;
 
-import com.javamultiplex.march.week2.IntegerToRoman;
+import com.javamultiplex.march.IntegerToRoman;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

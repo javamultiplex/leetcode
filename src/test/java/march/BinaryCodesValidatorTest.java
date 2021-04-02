@@ -1,6 +1,6 @@
-package march.week2;
+package march;
 
-import com.javamultiplex.march.week2.BinaryCodesValidator;
+import com.javamultiplex.march.BinaryCodesValidator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;

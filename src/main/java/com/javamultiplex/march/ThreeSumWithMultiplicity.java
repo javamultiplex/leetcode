@@ -1,4 +1,4 @@
-package com.javamultiplex.march.week4;
+package com.javamultiplex.march;
 
 /**
  * @author Rohit Agarwal on 23/03/21 11:13 pm

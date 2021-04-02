@@ -1,6 +1,6 @@
-package march.week4;
+package march;
 
-import com.javamultiplex.march.week4.ThreeSumWithMultiplicity;
+import com.javamultiplex.march.ThreeSumWithMultiplicity;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

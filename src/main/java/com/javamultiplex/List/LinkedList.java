@@ -1,4 +1,4 @@
-package com.javamultiplex.march.week2.List;
+package com.javamultiplex.List;
 
 import java.util.List;
 

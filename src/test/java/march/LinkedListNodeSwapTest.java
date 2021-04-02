@@ -1,8 +1,8 @@
-package march.week2;
+package march;
 
-import com.javamultiplex.march.week2.List.LinkedList;
-import com.javamultiplex.march.week2.LinkedListNodeSwap;
-import com.javamultiplex.march.week2.List.ListNode;
+import com.javamultiplex.List.LinkedList;
+import com.javamultiplex.march.LinkedListNodeSwap;
+import com.javamultiplex.List.ListNode;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
